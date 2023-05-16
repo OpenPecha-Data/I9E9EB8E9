@@ -1,0 +1,18 @@
+id: I9E9EB8E9
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:15.247891
+last_modified: 2023-01-04 11:30:15.247903
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  '7420':
+    title: Spontaneous Advice Connected with a Prayer
+    base_file: 7420.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
